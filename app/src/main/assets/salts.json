@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "notice": "Only individually source-verified entries belong here. Null means not published; never infer zero.",
+  "lastChecked": "2026-10-23",
+  "items": [
+    {
+      "id": "shio-center-table-salt",
+      "name": "食塩 500g",
+      "maker": "公益財団法人 塩事業センター",
+      "region": "日本（海水）",
+      "method": "イオン膜・立釜・乾燥",
+      "ingredients": "海水（日本）",
+      "sourceUrl": "https://www.shiojigyo.com/product/list/shokuen/",
+      "note": "メーカー公式の商品ページに基づく。製造所位置は未登録。マイクロプラスチック検査情報は公表データなし。",
+      "description": "メーカー公式の商品ページに基づく。製造所位置は未登録。マイクロプラスチック検査情報は公表データなし。",
+      "lastChecked": "2026-10-23",
+      "microplasticsStatus": "公表データなし"
+    },
+    {
+      "id": "hakata-no-shio-500g",
+      "name": "伯方の塩 500g",
+      "maker": "伯方塩業株式会社",
+      "region": "愛媛県今治市（大三島）",
+      "method": "溶解・立釜・自然乾燥",
+      "ingredients": "輸入天日塩田塩（メキシコまたはオーストラリア）、海水（大三島工場沖）",
+      "magnesiumMg100g": "100〜200",
+      "potassiumMg100g": "10〜150",
+      "calciumMg100g": "50〜200",
+      "manufacturingLocation": "大三島工場（愛媛県今治市大三島町台32番地）",
+      "rawMaterialLocation": "大三島工場沖（海水）／天日塩田塩は輸入",
+      "latitude": 34.24065,
+      "longitude": 132.99374,
+      "sourceUrl": "https://www.hakatanoshio.co.jp/products/%E4%BC%AF%E6%96%B9%E3%81%AE%E5%A1%A9/",
+      "locationSourceUrl": "https://www.city.imabari.ehime.jp/kanko/spot/?a=236",
+      "lastChecked": "2026-10-23",
+      "microplasticsStatus": "公表データなし",
+      "description": ""
+    }
+  ]
+}

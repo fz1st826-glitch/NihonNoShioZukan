@@ -1,0 +1,10 @@
+Prefecture boundary GeoJSON
+
+Source dataset: Japan Prefecture Boundaries, release 2026-08-04.1 (47 features, EPSG:4326), adapted from Japan MLIT National Land Numerical Information (N03) Administrative Area Data.
+Required attribution: 「国土数値情報（行政区域データ）」（国土交通省）をもとに加工して作成。
+Official dataset page: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+License: MLIT dataset-specific terms show Open Data (CC BY 4.0). The adapted GeoJSON release lists the equivalent CC BY 4.0 terms. Refer to the source pages for current terms.
+Adapted release page: https://geo.maderaojen.me/en/
+SHA-256 (source GeoJSON): c823cde901bb077cd3f861632bbcdd3676283d9e6f30c76b0d0fab330ebf157e
+
+Map tiles: © OpenStreetMap contributors. Tiles are downloaded online; boundary polygons remain embedded in the application.
